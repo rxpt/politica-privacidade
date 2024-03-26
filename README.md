@@ -1,11 +1,11 @@
 # Política de Privacidade
 
-## Última atualização: 15 de fevereiro de 2024
+## Última atualização: 25 de março de 2024
 
-- Desenvolvedor: Ronis.com.br
+- Desenvolvedor: Braw.dev.br
 
 ### Introdução
-- Esta Política de Privacidade se aplica a todos os aplicativos Android desenvolvidos por Ronis.com.br ("RXOG"). Ela descreve como coletamos, usamos, compartilhamos e protegemos as informações que você fornece ao usar nossos Aplicativos.
+- Esta Política de Privacidade se aplica a todos os aplicativos Android desenvolvidos por Braw.dev.br ("BRaw"). Ela descreve como coletamos, usamos, compartilhamos e protegemos as informações que você fornece ao usar nossos Aplicativos.
 
 ### Informações que coletamos
 
@@ -43,4 +43,4 @@
 - Podemos atualizar esta Política de Privacidade periodicamente. A versão mais recente estará sempre disponível em nosso site.
 
 ### Contato
-- Se você tiver alguma dúvida sobre esta Política de Privacidade, entre em contato conosco pelo e-mail: [dev@ronis.com.br]
+- Se você tiver alguma dúvida sobre esta Política de Privacidade, entre em contato conosco pelo e-mail: [oi@braw.dev.br]
