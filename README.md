@@ -1,15 +1,16 @@
 # Política de Privacidade
 
-## Última atualização: 25 de março de 2024
+## Última atualização: 13 de abril de 2024
 
-- Desenvolvedor: Braw.dev.br
+- **Desenvolvedor:** Ronis Xogum ([rx.dev.br](https://rx.dev.br))
 
-### Introdução
-- Esta Política de Privacidade se aplica a todos os aplicativos Android desenvolvidos por Braw.dev.br ("BRaw"). Ela descreve como coletamos, usamos, compartilhamos e protegemos as informações que você fornece ao usar nossos Aplicativos.
+## Introdução
 
-### Informações que coletamos
+Esta Política de Privacidade aplica-se a todos os aplicativos Android desenvolvidos por Ronis Xogum ("rx.dev.br"). Descreve como são coletadas, usadas, compartilhadas e protegidas as informações que você fornece ao usar as aplicações.
 
-- Como nossos aplicativos não exigem cadastro, coletamos apenas informações básicas sobre o seu dispositivo e como você usa nossos aplicativos.
+## Informações coletadas
+
+Como nossos aplicativos não exigem cadastro, apenas informações básicas são coletadas sobre o seu dispositivo e como você usa os aplicativos desenvolvidos por nós.
 
 ### Informações coletadas automaticamente:
 
@@ -19,28 +20,31 @@
 - Endereço IP
 - Dados de uso do aplicativo
 
-### Como usamos suas informações
+## Como suas informações são usadas
 
-- Fornecer e melhorar nossos Aplicativos
+- Fornecer e melhorar as aplicações desenvolvidas por nós
 - Analisar dados de uso
 - Realizar pesquisas e análises
 
-### Compartilhamento de informações
-- Como não exibimos anúncios em nossos aplicativos e não coletamos informações pessoais, não vendemos suas informações a terceiros.
+## Compartilhamento de informações
 
-### Compartilhamos suas informações com:
+### Suas informações são compartilhadas com:
 
-- Empresas de análise de dados (somente dados agregados e anônimos)
+- Empresas de análise de dados (apenas dados agregados e anônimos)
 - Autoridades legais, quando necessário
 
-### Segurança de dados
-- Tomamos medidas de segurança para proteger suas informações contra acesso não autorizado, uso indevido ou divulgação.
+## Segurança de dados
 
-### Links para outros sites
-- Nossos Aplicativos podem conter links para outros sites. Esta Política de Privacidade se aplica apenas aos nossos Aplicativos. Leia as políticas de privacidade de outros sites antes de usá-los.
+Seus dados estarão sempre seguros, pois não armazenamos nenhum dado sensível.
 
-### Mudanças na política de privacidade
-- Podemos atualizar esta Política de Privacidade periodicamente. A versão mais recente estará sempre disponível em nosso site.
+## Links para outros sites
 
-### Contato
-- Se você tiver alguma dúvida sobre esta Política de Privacidade, entre em contato conosco pelo e-mail: [oi@braw.dev.br]
+Aplicativos desenvolvidos por nós podem conter links para outros sites. Esta Política de Privacidade se aplica apenas aos aplicativos desenvolvidos por nós. Leia as políticas de privacidade de outros sites ou apps antes de usá-los.
+
+## Mudanças na política de privacidade
+
+Esta Política de Privacidade pode sofrer mudanças periodicamente.
+
+## Contato
+
+Se você tiver alguma dúvida sobre esta Política de Privacidade, entre em contato conosco pelo e-mail: [contato@rx.dev.br](mailto:contato@rx.dev.br)
